@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickQR</string>
+        <string name="scanner_frame">Scanner frame</string>
+        <string name="position_qr_code_in_the_frame">Position QR code in the frame</string>
+        <string name="toggle_flashlight">Toggle flashlight</string>
+        <string name="import_from_gallery">Import from gallery</string>
+</resources>
