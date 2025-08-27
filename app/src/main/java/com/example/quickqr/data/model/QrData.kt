@@ -2,6 +2,7 @@ package com.example.quickqr.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.example.quickqr.Fragment.QrCodeType
 import java.util.*
 
 @Entity(tableName = "qr_codes")
